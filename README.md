@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahram-boshra
 - 👀 I’m interested in AI & Zen of Python
-- 🌱 I’m currently working on Machine Learning with Python
+- 🌱 I’m currently working on Machine Learning with Python(PyTorch, PyG)
 - 💞️ I’m looking to collaborate on Machine Learning with Python
 - 📫 How to reach me a.boshra@gmaill.com
 - 😄 Pronouns: Shah

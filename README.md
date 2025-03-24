@@ -1,5 +1,4 @@
-- 🌱 Deep Learning Ecotone Enthusiast...
-- 👋 Hi, I’m @shahram-boshra
+- 👋 @shahram-boshra, Deep Learning Ecotone Enthusiast...
 - 👀 I’m interested in AI & Zen of Python
 - 🌱 I’m currently working on Machine Deep Learning with Python (PyTorch, PyG)
 - 💞️ I’m looking to collaborate on Machine Deep Learning with Python (PyTorch, PyG)

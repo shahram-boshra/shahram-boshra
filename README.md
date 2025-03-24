@@ -1,7 +1,7 @@
 - 👋 @shahram-boshra, Deep Learning Ecotone Enthusiast...
 - 🌱 Grit permanently pays...
 - 👀 Interested in AI & Zen of Python
-- 🌱 Currently working on Machine Deep Learning with Python (PyTorch, PyG)
+- 🌱 Currently working on Molecular Graph Machine Deep Learning with Python (PyTorch, PyG)
 - 💞️ Looking to collaborate on Machine Deep Learning with Python (PyTorch, PyG)
 - 📫 Reach me via a.boshra@gmaill.com
 - 😄 Pronouns: Shah
